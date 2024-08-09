@@ -1,5 +1,7 @@
 # Password Manager
 
+![password manager](https://github.com/user-attachments/assets/81d8653f-5640-4a3b-aeb4-a51ad230e71f) 
+![password manager2](https://github.com/user-attachments/assets/9387c24e-d009-4cb8-a0ec-a84ea80a0d7e)
 ## Overview
 The **Password Manager** is designed to securely manage and store your passwords. This project allows users to easily save and retrieve credentials, generate strong random passwords, and manage them efficiently all stored in a JSON file for quick access.
 
